@@ -3,7 +3,7 @@
 -  I’m ready & open to learn 🌱 whatever project needs.  
 -  I’m looking to collaborate on 💞️ any project you are working with. (until i start my own project)
 -  I’m also looking for some mentor/s who can guide me to 💞️ build (or find) desired (wishlist) tools. 
-- Reach me 📫 technicalvasant@gmail.com (I eagerly wait for an email to hear about any idea/proposals)
+- Reach me 📫 https://twitter.com/vasant01534171
 
 <!---
 vasnt/vasnt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
