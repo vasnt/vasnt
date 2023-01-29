@@ -3,7 +3,7 @@
 -  I’m ready & open to learn 🌱 whatever project needs.  
 -  I’m looking to collaborate on 💞️ any project you are working with. (until i start my own project)
 -  Would be happy to 💞️ build (or find) desired (wishlist) tools with peer/mentor/s.
-- Reach me [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/vasant01534171.svg?style=social&label=%20%40vasant01534171)](https://twitter.com/vasant01534171)
+- Reach me [@github](https://github.com/vasnt/vasnt/discussions/1) OR  [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/vasant01534171.svg?style=social&label=%20%40vasant01534171)](https://twitter.com/vasant01534171)
 
 
 <!---
