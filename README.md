@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @vasnt, life-long learner.
+-  If you have any issue/seeking support urgently, i would make myself available to contribute on any foss project. 
 -  I’m interested in working on  👀 almost any tech/tool/project
 -  I’m ready & open to learn 🌱 whatever project needs.  
 -  I’m looking to collaborate on 💞️ any project you are working with. (until i start my own project)
